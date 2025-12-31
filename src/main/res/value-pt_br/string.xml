@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="no_root">O app não funciona por root</string>
+<string name="name">delete system</string>
+<string name="icon">res/*dpi/ic_launcher</string>
+<string name="VOID"> </string>
+</resources>
